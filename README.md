@@ -10,6 +10,16 @@
 ![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
 
+> [!IMPORTANT]
+> ### 📌 Recruiter & Reviewer Quick Links (3 Repositories)
+> This enterprise platform is engineered as a decoupled polyglot microservice architecture across 3 independent repositories:
+> 
+> | Component | Repository Link | Role | Technology Stack |
+> | :--- | :--- | :--- | :--- |
+> | ☕ **Core Backend API** | [**lending-engine-java-api**](https://github.com/Aryan-Raval02/lending-engine-java-api) | Core Transactional Backend & Schema Multi-Tenancy | Java 21, Spring Boot 3.4, PostgreSQL, Flyway |
+> | 🧠 **AI Risk Engine** | [**lending-engine-python-ml**](https://github.com/Aryan-Raval02/lending-engine-python-ml) | Real-Time Credit Scoring & ML Underwriting | Python 3.10+, FastAPI, Scikit-Learn, Pandas |
+> | ⚛️ **Frontend Portal** | [**lending-engine-frontend**](https://github.com/Aryan-Raval02/lending-engine-frontend) | Glassmorphism Dashboard UI & Risk Visualizer | React 19, TypeScript, Vite, Recharts |
+
 ---
 
 ## 2. Short Description
