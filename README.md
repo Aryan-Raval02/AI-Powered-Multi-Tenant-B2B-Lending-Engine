@@ -1,5 +1,6 @@
 # 🚀 AI-Powered Multi-Tenant B2B Lending Engine
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lending-engine-frontend.vercel.app/)
 ![Java](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.4.1-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -11,7 +12,9 @@
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
 
 > [!IMPORTANT]
-> ### 📌 Recruiter & Reviewer Quick Links (3 Repositories)
+> ### 📌 Recruiter & Reviewer Quick Links
+> 🌐 **Live Application:** [**https://lending-engine-frontend.vercel.app/**](https://lending-engine-frontend.vercel.app/)
+>
 > This enterprise platform is engineered as a decoupled polyglot microservice architecture across 3 independent repositories:
 > 
 > | Component | Repository Link | Role | Technology Stack |
@@ -29,6 +32,8 @@ The **AI-Powered Multi-Tenant B2B Lending Engine** is an enterprise-grade fintec
 ---
 
 ## 3. Demo / Screenshots
+
+🚀 **Live Deployment:** [**Launch B2B Lending Engine Portal**](https://lending-engine-frontend.vercel.app/)
 
 ### End-to-End System Workflow
 
@@ -264,4 +269,4 @@ Execute the pre-configured [docs/e2e-flow.http](file:///d:/AI-Powered%20Multi-Te
 **Aryan Raval** — Full-Stack & Systems Engineer  
 - **GitHub**: [@Aryan-Raval02](https://github.com/Aryan-Raval02)  
 - **Email**: [aryanraval299@gmail.com](mailto:aryanraval299@gmail.com)  
-- **Profile**: [https://github.com/Aryan-Raval02](https://github.com/Aryan-Raval02)  
+- **Profile**: [https://github.com/Aryan-Raval02](https://github.com/Aryan-Raval02)
